@@ -1,0 +1,69 @@
+Sony VENICE:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "6054 x 3272      6K 1.85:1      36.0 mm x 19.4 mm (1.417 in x 0.764 in)"
+    - "6054 x 3192      6K 17:9        36.0 mm x 19.0 mm (1.417 in x 0.748 in)"
+    - "6048 x 4032      6K 3:2         35.9 mm x 24.0 mm (1.413 in x 0.945 in)"
+    - "6048 x 2534      6K 2.39:1      35.9 mm x 15.0 mm (1.413 in x 0.590 in)"
+    - "5670 x 3190      5.7K 16:9      33.7 mm x 18.9 mm (1.327 in x 0.744 in)"
+    - "4096 x 3432      4K 6:5         24.3 mm x 20.4 mm (0.957 in x 0.803 in)"
+    - "4096 x 3024      4K 4:3         24.3 mm x 18.0 mm (0.957 in x 0.708 in)"
+    - "4096 x 2160      4K 17:9        24.3 mm x 12.8 mm (0.957 in x 0.504 in)"
+    - "3840 x 2160      3.8K 16:9      22.8 mm x 12.8 mm (0.898 in x 0.504 in)"
+
+  output_type:
+    - "RAW"
+    - "X-OCN ST"
+    - "X-OCN LT"
+    - "ProRes 422 HQ"
+    - "ProRes 422"
+    - "ProRes 422 Proxy"
+    - "XAVC 4K Class480"
+    - "XAVC 4K Class300"
+    - "XAVC QFHD Class480"
+    - "XAVC QFHD Class300"
+    - "MPEG HD422"
+
+Sony F65:
+  sensor_type: "CMOS"
+  shutter: "Mechanical"
+  dimension:
+    - "8182 x 2160    8K      24.7 mm x 13.1 mm (0.972 in x 0.516 in)"
+    - "4096 x 2160    4K      24.7 mm x 13.1 mm (0.972 in x 0.516 in)"
+    - "2048 x 1080    2K      24.7 mm x 13.1 mm (0.972 in x 0.516 in)"
+    - "1920 x 1080    HD      24.7 mm x 13.1 mm (0.972 in x 0.516 in)"
+
+  output_type:
+    - "16-bit Linear RAW"
+    - "12-bit 4:4:4 HD"
+    - "10-bit 4:4:4 HD"
+    - "10-bit 4:2:2 HD"
+
+Sony F55:
+  sensor_type: "CMOS"
+  shutter: "Global (Electronic Frame Image Scan)"
+  dimension:
+    - "4096 x 2160    4K   24.7 mm x 13.1 mm (0.972 in x 0.516 in)"
+    - "2048 x 1080    2K   24.7 mm x 13.1 mm (0.972 in x 0.516 in)"
+    - "1920 x 1080    HD   24.7 mm x 13.1 mm (0.972 in x 0.516 in)"
+
+  output_type:
+    - "16-bit Linear RAW"
+    - "12-bit 4:4:4 HD"
+    - "10-bit 4:4:4 HD"
+    - "10-bit 4:2:2 HD"
+
+Sony F5:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "4096 x 2160    4K   24.00 mm x 12.70 mm (0.945 in x 0.500 in)"
+    - "2048 x 1080    2K   24.00 mm x 12.70 mm (0.945 in x 0.500 in)"
+    - "1920 x 1080    HD   24.00 mm x 12.70 mm (0.945 in x 0.500 in)"
+
+  output_type:
+    - "16-bit Linear RAW"
+    - "12-bit 4:4:4 HD"
+    - "10-bit 4:4:4 HD"
+    - "10-bit 4:2:2 HD"
