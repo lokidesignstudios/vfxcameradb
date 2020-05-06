@@ -1,0 +1,52 @@
+ARRI ALEXA 65:
+  sensor_type: "CMOS (A3X)"
+  shutter: "Rolling"
+  dimension:
+    - "6560 x 3100      Open Gate     54.12 mm x 25.58 mm (2.131 in x 1.007 in)"
+    - "4448 x 3096      LF Open Gate  36.70 mm x 25.54 mm (1.440 in x 1.010 in)"
+    - "5120 x 2880      16:9          42.24 mm x 23.76 mm (1.663 in x 0.935 in)"
+    - "4320 x 2880      3:2           35.64 mm x 23.76 mm (1.403 in x 0.935 in)"
+
+  output_type:
+    - "ARRIRAW"
+
+ARRI ALEXA LF:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "4448 x 3096       Open Gate 4.5K    36.70 mm x 25.54 mm (1.445 in x 1.005 in)"
+    - "4448 x 1856       Scope 4.5K        36.70 mm x 15.31 mm (1.445 in x 0.603 in)"
+    - "3840 x 2160       4K UHD            31.68 mm x 17.82 mm (1.247 in x 0.702 in)"
+    - "2048 x 1152       2K                31.68 mm x 17.82 mm (1.247 in x 0.702 in)"
+    - "1920 x 1080       HD                31.68 mm x 17.82 mm (1.247 in x 0.702 in)"
+
+  output_type:
+    - "ARRIRAW"
+    - "ProRes 4444 XQ"
+    - "ProRes 4444"
+    - "ProRes 422 HQ"
+    - "ProRes 422"
+
+ARRI ALEXA Mini:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160     4K UHD                  26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3424 x 2202     3.4K Open Gate          28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "3200 x 1800     3.2K                    26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "2880 x 2160     2.8K 4:3                23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2880 x 1620     2.8K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2560 x 2145     2K Anamorphic 2.39:1    21.12 mm x 17.70 mm (0.831 in x 0.697 in)"
+    - "2048 x 1152     2K                      23.66 mm x 13.30 mm (0.932 in x 0.524 in)"
+    - "2048 x 858      2K Anamorphic 2.39:1    21.12 mm x 17.70 mm (0.831 in x 0.697 in)"
+    - "1920 x 2160     HD Anamorphic 16:9      15.84 mm x 17.82 mm (0.624 in x 0.702 in)"
+    - "1920 x 1080     HD Anamorphic           15.84 mm x 17.82 mm (0.624 in x 0.702 in)"
+    - "1920 x 1080     HD                      23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080     S16 HD                  13.2 mm x 7.425 mm (0.520 in x 0.292 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
