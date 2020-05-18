@@ -74,3 +74,302 @@ ARRI ALEXA SXT Studio:
     - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
     - "12-bit 2K Apple ProRes"
     - "10-bit HD Apple ProRes"
+
+ARRI ALEXA SXT Plus:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "4096 x 2636    4K Cine               28.17 mm x 18.13 mm (1.109 in x 0.714 in)"
+    - "3424 x 2202    3.4K                  28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "4096 x 1716    4K Cine Anamorphic    21.12 mm x 17.70 mm (0.831 in x 0.697 in)"
+    - "2578 x 2160    2.6K                  21.38 mm x 17.82 mm (0.842 in x 0.702 in)"
+    - "2048 x 858     2K Anamorphic         21.12 mm x 17.70 mm (0.831 in x 0.697 in)"
+    - "2880 x 2160    2.8K                  23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "3840 x 2160    4K UHD                26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3200 x 1800    3.2K                  26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3168 x 1782    3.2K                  26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K                  23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    HD                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ALEXA SXT:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "4096 x 2636    4K Cine               28.17 mm x 18.13 mm (1.109 in x 0.714 in)"
+    - "3424 x 2202    3.4K                  28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "4096 x 1716    4K Cine Anamorphic    21.12 mm x 17.70 mm (0.831 in x 0.697 in)"
+    - "2578 x 2160    2.6K                  21.38 mm x 17.82 mm (0.842 in x 0.702 in)"
+    - "2048 x 858     2K Anamorphic         21.12 mm x 17.70 mm (0.831 in x 0.697 in)"
+    - "2880 x 2160    2.8K                  23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "3840 x 2160    4K UHD                26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3200 x 1800    3.2K                  26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3168 x 1782    3.2K                  26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K                  23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    HD                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ALEXA XR Studio:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Mechanical"
+  dimension:
+    - "3414 x 2198    Open Gate    28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "2880 x 2160    Full         23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2578 x 2160    Cropped      21.27 mm x 17.82 mm (0.837 in x 0.702 in)"
+    - "2048 x 1536    2K           23.66 mm x 17.75 mm (0.932 in x 0.699 in)"
+    - "3164 x 1778    3.2K         26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K           23.66 mm x 13.32 mm (0.932 in x 0.524 in)"
+    - "1920 x 1080    HD           23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ALEXA XT B+W:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3414 x 2198    Open Gate    28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "2880 x 2160    Full         23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2578 x 2160    Cropped      21.27 mm x 17.82 mm (0.837 in x 0.702 in)"
+    - "2048 x 1536    2K           23.66 mm x 17.75 mm (0.932 in x 0.699 in)"
+    - "3164 x 1778    3.2K         26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K           23.66 mm x 13.32 mm (0.932 in x 0.524 in)"
+    - "1920 x 1080    HD           23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+
+ARRI ALEXA XT Studio:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Mechanical"
+  dimension:
+    - "3414 x 2198    Open Gate    28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "2880 x 2160    Full         23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2578 x 2160    Cropped      21.27 mm x 17.82 mm (0.837 in x 0.702 in)"
+    - "2048 x 1536    2K           23.66 mm x 17.75 mm (0.932 in x 0.699 in)"
+    - "3164 x 1778    3.2K         26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K           23.66 mm x 13.32 mm (0.932 in x 0.524 in)"
+    - "1920 x 1080    HD           23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ALEXA XT Plus:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3414 x 2198    Open Gate    28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "2880 x 2160    Full         23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2578 x 2160    Cropped      21.27 mm x 17.82 mm (0.837 in x 0.702 in)"
+    - "2048 x 1536    2K           23.66 mm x 17.75 mm (0.932 in x 0.699 in)"
+    - "3164 x 1778    3.2K         26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K           23.66 mm x 13.32 mm (0.932 in x 0.524 in)"
+    - "1920 x 1080    HD           23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ALEXA XT M:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3414 x 2198    Open Gate    28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "2880 x 2160    Full         23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2578 x 2160    Cropped      21.27 mm x 17.82 mm (0.837 in x 0.702 in)"
+    - "2048 x 1536    2K           23.66 mm x 17.75 mm (0.932 in x 0.699 in)"
+    - "3164 x 1778    3.2K         26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K           23.66 mm x 13.32 mm (0.932 in x 0.524 in)"
+    - "1920 x 1080    HD           23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ALEXA XT:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3414 x 2198    Open Gate    28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "2880 x 2160    Full         23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2578 x 2160    Cropped      21.27 mm x 17.82 mm (0.837 in x 0.702 in)"
+    - "2048 x 1536    2K           23.66 mm x 17.75 mm (0.932 in x 0.699 in)"
+    - "3164 x 1778    3.2K         26.14 mm x 14.70 mm (1.029 in x 0.579 in)"
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K           23.66 mm x 13.32 mm (0.932 in x 0.524 in)"
+    - "1920 x 1080    HD           23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ALEXA Studio:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Mechanical"
+  dimension:
+    - "2880 x 2160    Full         23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 1080p Apple ProRes 4:4:4 QuickTime HD (SxS)"
+    - "10-bit 1080p Apple ProRes 4:2:2 HQ (SxS)"
+
+ARRI ALEXA Plus:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 1080p Apple ProRes 4:4:4 QuickTime HD (SxS)"
+    - "10-bit 1080p Apple ProRes 4:2:2 HQ (SxS)"
+
+ARRI ALEXA M:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 1080p Apple ProRes 4:4:4 QuickTime HD (SxS)"
+    - "10-bit 1080p Apple ProRes 4:2:2 HQ (SxS)"
+
+ARRI ALEXA:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "2880 x 1620    2.8K         23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW (HD-SDI)"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 1080p Apple ProRes 4:4:4 QuickTime HD (SxS)"
+    - "10-bit 1080p Apple ProRes 4:2:2 HQ (SxS)"
+
+ARRI AMIRA Premium:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K UHD                26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3424 x 2202    3.4K Open Gate        28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "3200 x 1800    3.2K                  26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "2880 x 1620    2.8K                  23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    HD                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    S16 HD                13.2 mm x 7.425 mm (0.520 in x 0.292 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI AMIRA Advanced:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K UHD                26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3424 x 2202    3.4K Open Gate        28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "3200 x 1800    3.2K                  26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "2880 x 1620    2.8K                  23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    HD                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    S16 HD                13.2 mm x 7.425 mm (0.520 in x 0.292 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI AMIRA:
+  sensor_type: "CMOS (ALEV III)"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K UHD                26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "3424 x 2202    3.4K Open Gate        28.25 mm x 18.17 mm (1.112 in x 0.715 in)"
+    - "3200 x 1800    3.2K                  26.40 mm x 14.85 mm (1.039 in x 0.585 in)"
+    - "2880 x 1620    2.8K                  23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "2048 x 1152    2K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    HD                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    S16 HD                13.2 mm x 7.425 mm (0.520 in x 0.292 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB (HD-SDI)"
+    - "10-bit 1080PsF 4:2:2 YCbCr (HD-SDI)"
+    - "12-bit 2K Apple ProRes"
+    - "10-bit HD Apple ProRes"
+
+ARRI ARRIFLEX D-21:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "2880 x 2160    Arri Raw Mode 4:3     23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2880 x 1620    Arri Raw Mode 16:9    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    HD MODE               23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB"
+    - "10-bit 1080PsF 4:2:2 YCbCr"
+
+ARRI ARRIFLEX D-20:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "2880 x 2160    Arri Raw Mode 4:3     23.76 mm x 17.82 mm (0.935 in x 0.702 in)"
+    - "2880 x 1620    Arri Raw Mode 16:9    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+    - "1920 x 1080    HD MODE               23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
+
+  output_type:
+    - "12-bit ARRIRAW"
+    - "10-bit 1080PsF 4:4:4 RGB"
+    - "10-bit 1080PsF 4:2:2 YCbCr"

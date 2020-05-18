@@ -1,5 +1,6 @@
 import os
 import sys
+import qdarkstyle
 import yaml
 
 import PySide2.QtWidgets as QtWidgets
@@ -98,6 +99,7 @@ class CameraDBUI(QtWidgets.QWidget):
 
 if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
+    app.setStyleSheet(qdarkstyle.load_stylesheet_pyside2())
     camdbui = CameraDBUI()
     camdbui.show()
     sys.exit(app.exec_())
