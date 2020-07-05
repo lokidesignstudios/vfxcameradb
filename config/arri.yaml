@@ -301,7 +301,7 @@ ARRI AMIRA Premium:
     - "2880 x 1620    2.8K                  23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
     - "2048 x 1152    2K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
     - "1920 x 1080    HD                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
-    - "1920 x 1080    S16 HD                13.2 mm x 7.425 mm (0.520 in x 0.292 in)"
+    - "1920 x 1080    S16 HD                13.20 mm x 7.425 mm (0.520 in x 0.292 in)"
 
   output_type:
     - "12-bit ARRIRAW"
@@ -320,7 +320,7 @@ ARRI AMIRA Advanced:
     - "2880 x 1620    2.8K                  23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
     - "2048 x 1152    2K                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
     - "1920 x 1080    HD                    23.76 mm x 13.37 mm (0.935 in x 0.526 in)"
-    - "1920 x 1080    S16 HD                13.2 mm x 7.425 mm (0.520 in x 0.292 in)"
+    - "1920 x 1080    S16 HD                13.20 mm x 7.425 mm (0.520 in x 0.292 in)"
 
   output_type:
     - "12-bit ARRIRAW"

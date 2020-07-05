@@ -67,3 +67,210 @@ Sony F5:
     - "12-bit 4:4:4 HD"
     - "10-bit 4:4:4 HD"
     - "10-bit 4:2:2 HD"
+
+Sony F35:
+  sensor_type: "CCD"
+  shutter: "Global"
+  dimension:
+    - "1920 x 1080    HD   23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "10-bit 4:4:4 HDCAM-SR"
+
+Sony F3:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "2448 x 1377    2K        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1920 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1440 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1280 x 720     HALF-HD   23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "8-bit 4:2:0 MPEG-2 (SxS)"
+    - "RGB and S-Log (SDI)"
+
+Sony F23:
+  sensor_type: "CCD"
+  shutter: "Global"
+  dimension:
+    - "1920 x 1080    HD   9.59 mm x 5.39 mm (0.377 in x 0.212 in)"
+
+  output_type:
+    - "10-bit 4:4:4 HDCAM-SR"
+
+Sony HDC-4800:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1920 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "HDCAM"
+
+Sony HDC-P1:
+  sensor_type: "CCD"
+  shutter: "Global"
+  dimension:
+    - "1920 x 1080    HD        9.59 mm x 5.39 mm (0.377 in x 0.212 in)"
+
+  output_type:
+    - "HDCAM"
+
+Sony HDC-F950:
+  sensor_type: "CCD"
+  shutter: "Global"
+  dimension:
+    - "1920 x 1080    HD        9.59 mm x 5.39 mm (0.377 in x 0.212 in)"
+
+  output_type:
+    - "HDCAM"
+
+Sony HDW-F900R:
+  sensor_type: "CCD"
+  shutter: "Global"
+  dimension:
+    - "1920 x 1080    HD        9.59 mm x 5.39 mm (0.377 in x 0.212 in)"
+
+  output_type:
+    - "HDCAM"
+
+Sony NEX-FS700:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "4352 x 2662    4K        24.00 mm x 12.70 mm (0.945 in x 0.500 in)"
+    - "1920 x 1080    HD        24.00 mm x 12.70 mm (0.945 in x 0.500 in)"
+
+  output_type:
+    - "16-bit RAW"
+    - "8-bit MPEG-4 AVCHD"
+
+Sony NEX-FS100:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "2448 x 1377    2K        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1920 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1440 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1280 x 720     HALF-HD   23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "8-bit MPEG-4 AVCHD"
+
+Sony NEX-VG900:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "1920 x 1080    HD        35.8 mm x 20.1 mm (1.409 in x 0.791 in)"
+
+  output_type:
+    - "8-bit MPEG-4 AVCHD"
+
+Sony NEX-VG30H:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "1920 x 1080    HD        23.5 mm x 13.2 mm (0.925 in x 0.519 in)"
+
+  output_type:
+    - "8-bit MPEG-4 AVCHD"
+
+Sony NEX-VG20:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "1920 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "8-bit MPEG-4 AVCHD"
+
+Sony PMW-EX1:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "1920 x 1080    HD        6.97 mm x 3.92 mm (0.274 in x 0.154 in)"
+
+  output_type:
+    - "4:2:0 MPEG-2 (SxS)"
+    - "4:2:2 (HD-SDI)"
+
+Sony PMW-EX3:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "1920 x 1080    HD        6.97 mm x 3.92 mm (0.274 in x 0.154 in)"
+
+  output_type:
+    - "4:2:0 MPEG-2 (SxS)"
+    - "4:2:2 (HD-SDI)"
+
+Sony PXW-FS7:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1920 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "RAW (XDCA-FS7)"
+    - "Apple ProRes 422 HQ"
+    - "Apple ProRes 422"
+    - "XAVC-I 4K/QFHD/HD"
+    - "XAVC-L QFHD/HD50/HD35/HD25"
+
+Sony PXW-FS5:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1920 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+    - "1280 x 720     HALF-HD   23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "XAVC QFHD"
+    - "XAVC HD"
+    - "AVCHD"
+
+Sony PXW-Z150:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K        13.2 mm x 8.8 mm (0.519 in x 0.346 in)"
+    - "1920 x 1080    HD        13.2 mm x 8.8 mm (0.519 in x 0.346 in)"
+    - "1440 x 1080    HD        13.2 mm x 8.8 mm (0.519 in x 0.346 in)"
+    - "1280 x 720     HALF-HD   13.2 mm x 8.8 mm (0.519 in x 0.346 in)"
+
+  output_type:
+    - "MPEG-4 AVC/H.264 4:2:2"
+    - "MPEG-4 AVC/H.264 4:2:0"
+
+Sony SRW-9000PL:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "1920 x 1080    HD        23.60 mm x 13.30 mm (0.929 in x 0.523 in)"
+
+  output_type:
+    - "14-bit 4:4:4 RGB"
+    - "10-bit 4:4:4 HDCAM-SR"
+
+Sony SRW-9000:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "1920 x 1080    HD   9.59 mm x 5.39 mm (0.377 in x 0.212 in)"
+
+  output_type:
+    - "10-bit 4:4:4 HDCAM-SR"
+
+Sony UMC-S3C:
+  sensor_type: "CMOS"
+  shutter: "Rolling"
+  dimension:
+    - "3840 x 2160    4K        36.00 mm x 20.25 mm (0.519 in x 0.346 in)"
+    - "1920 x 1080    HD        36.00 mm x 20.25 mm (0.519 in x 0.346 in)"
+
+  output_type:
+    - "XAVC S:MPEG-4 AVC/H.264"
